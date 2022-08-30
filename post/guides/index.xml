@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on All Articles</title>
+    <link>https://akl5000.github.io/post/guides.html</link>
+    <description>Recent content in Posts on All Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://akl5000.github.io/post/guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character Creation Guide</title>
+      <link>https://akl5000.github.io/post/guides/character-creation.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akl5000.github.io/post/guides/character-creation.html</guid>
+      <description>Character Creation Guide People like to make characters in very different ways. Some enjoy creating an elaborate backstory, and choose the class and race after, while others have a class in mind and make the afterward. However, you may do it, here is a list of things that are required for a completed character.
+Class Race Background Backstory Because of the interconnectedness between the classes, races, and world in this homebrew, I would recommend choosing a class first, followed by race, then background.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to DND Mechanics</title>
+      <link>https://akl5000.github.io/post/guides/intro-mechanics.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akl5000.github.io/post/guides/intro-mechanics.html</guid>
+      <description>Introductions to the Mechanics of DND Playing DND consists of 2 general gameplay modes, Adventuring and Combat. All sessions consist of one or more of these modes. In this section, I will try to summarize the two modes to hopefully give some clarity about what situations might arise in a typical session. After that, I will try to cover the dice and chance aspect of the game, along with an explanation of how your ability scores and skills come into play.</description>
+    </item>
+    
+    <item>
+      <title>Resources for Weapons and Items</title>
+      <link>https://akl5000.github.io/post/guides/items-weapons.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akl5000.github.io/post/guides/items-weapons.html</guid>
+      <description>Resources for Weapons and Items DND has a surprisingly low number of weapons and a surprisingly large number of miscellaneous items.
+Weapons Here is a full List of Weapons that we will be using in the game. Additional weapons are listed below.
+Custom Weapons
+Name Cost Damage Weight Properties Machete 10 gp 1d4 Slashing 3 lbs Finesse, Light Cutlas 15 gp 1d6 Slashing 3 lbs Light Armor and Shields Every class can choose between different types of armor to set their AC, see all the different types below.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my Homebrew!</title>
+      <link>https://akl5000.github.io/post/guides/welcome.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akl5000.github.io/post/guides/welcome.html</guid>
+      <description>Welcome to the wiki of my Homebrew! This homebrew introduces 8 classes, 4 races, a custom magic system, and a custom world named Eribar. Each of these Aspects can be found by navigating the tabs at the top. You can return back to this page under the Guides category
+Suggested path of discovery Introduction to the world of Eribar (Optional – World Map, The Major Cities of Eribar, History of the World) If you know nothing about DND or need a refresher: Introduction to DND Mechanics Resources for Weapons and Items Character Creation Guide Browse the Classes Browse the Races Reference Magic type if class uses magic By this point you should be familiar with the world, classes, races, and have some idea about your backstory.</description>
+    </item>
+    
+  </channel>
+</rss>
