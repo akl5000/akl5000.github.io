@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Races on All Articles</title>
-    <link>http://localhost:1313/series/races/</link>
+    <link>https://akl5000.github.io/series/races/</link>
     <description>Recent content in Races on All Articles</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/series/races/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://akl5000.github.io/series/races/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azzar</title>
-      <link>http://localhost:1313/post/races/azzar/</link>
+      <link>https://akl5000.github.io/post/races/azzar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/races/azzar/</guid>
+      <guid>https://akl5000.github.io/post/races/azzar/</guid>
       <description>Azzar The Azzar are mystical people of otherworldly grace, living in the world but not entirely part of it. They know much about the physical realm around them, but also of the substances in between. They walk proudly through a world that greets them with fearful incomprehension, and between worlds that are closer together than we could know. The Azzar are not just the protectors of the space scale, they were born from it.</description>
     </item>
     
     <item>
       <title>Blood-Touched</title>
-      <link>http://localhost:1313/post/races/blood-touched/</link>
+      <link>https://akl5000.github.io/post/races/blood-touched/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/races/blood-touched/</guid>
+      <guid>https://akl5000.github.io/post/races/blood-touched/</guid>
       <description>Blood-Touched To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the Blood-Touched. And to twist the knife, Blood-Touched know that this is because a pact struck generations ago infused the essence of Maglore—The ancient blood god—into their bloodline. Their appearance and nature are not their fault but the result of an ancient sin, for which they and their children and their children’s children will always be held prisoner.</description>
     </item>
     
     <item>
       <title>Human</title>
-      <link>http://localhost:1313/post/races/human/</link>
+      <link>https://akl5000.github.io/post/races/human/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/races/human/</guid>
+      <guid>https://akl5000.github.io/post/races/human/</guid>
       <description>Human In the reckonings of most worlds, Humans are the foundation of the global stage. Proud, family driven, and short-lived in comparison to Spirit Beasts and Azzars. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to protect from the foreign races, and that’s why they build their mighty empires on the foundation of conquest and trade.</description>
     </item>
     
     <item>
       <title>Spirit Beast</title>
-      <link>http://localhost:1313/post/races/spiritbeast/</link>
+      <link>https://akl5000.github.io/post/races/spiritbeast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/races/spiritbeast/</guid>
+      <guid>https://akl5000.github.io/post/races/spiritbeast/</guid>
       <description>Spirit Beast The great Spirit Beasts of old once ruled the continent. Mystical dragons, serpents, fish, and even birds lived peacefully in the wilderness as they pleased. When conflict arose between the spirits of old and the conquering Humans, the most powerful Spirit Beasts took up arms to defeat the invaders. The two races met on the battlefield, with the elder spirit beasts arriving in humanoid form. The battle ended in stalemate, with both sides gaining a respect for each other, man to beast.</description>
     </item>
     
