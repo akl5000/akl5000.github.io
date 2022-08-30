@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on All Articles</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on All Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classes</title>
+      <link>http://localhost:1313/tags/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/classes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>http://localhost:1313/tags/guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/guides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magic</title>
+      <link>http://localhost:1313/tags/magic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/magic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Races</title>
+      <link>http://localhost:1313/tags/races/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/races/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>http://localhost:1313/tags/world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
